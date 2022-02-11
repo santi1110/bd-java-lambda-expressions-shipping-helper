@@ -1,5 +1,3 @@
-package com.amazon.ata.lambdaexpressions.prework.predicate;
-
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

@@ -1,9 +1,5 @@
 ### Functional interfaces with lambda expressions Pre-work
 
-**Branch Name:** lambdaexpressions-prework
-
-RDE workflow: `lambdaexpressions-prework-predicate-shippinghelpertest`
-
 Expected time required: 15 min
 
 In this scenario, you are processing a list of orders to determine which orders contain only one item so that item

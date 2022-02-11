@@ -1,5 +1,3 @@
-package com.amazon.ata.lambdaexpressions.prework.predicate;
-
 import java.util.ArrayList;
 import java.util.List;
 
